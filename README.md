@@ -1,4 +1,4 @@
-# Cryptocurrency_Calculator_V1.0
+# Cryptocurrency_Calculator
 A simple cryptocurrency calculator to determine how much you will earn after profits. 
 
 My own personal pet project for personal purposes, and to share!
